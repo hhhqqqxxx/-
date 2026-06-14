@@ -243,9 +243,6 @@ PlayTogeterSimple/
 ### 构建配置
 
 - **设计分辨率**：1280 × 720（横屏）
-- **屏幕方向**：`landscapeRight`
-- **微信 AppID**：`wxfe3da3531de2e528`
-- **TapTap AppID**：`855092`
 - **物理引擎**：2D Physics（Box2D WASM 子包）
 - **引擎裁剪**：关闭 3D / Spine / DragonBones / WebSocket，启用 2D / UI / Tween / Particle / Audio
 
